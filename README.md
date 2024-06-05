@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @marveegithub
 - 👀 I’m interested in learning codes in visualize mannner
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate to work all
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with my teammates 
+- 📫 How to reach me through github 
 - 😄 Pronouns: virat
 - ⚡ Fun fact: eat 5 star do nothing
 
